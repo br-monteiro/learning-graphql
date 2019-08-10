@@ -1,4 +1,4 @@
-import { Server } from "http";
+import { Server } from 'http';
 
 export const normilizePort = (val: number | string): number | string | boolean => {
     let port: number = (typeof val === 'string') ? parseInt(val, 10) : val;
