@@ -10,7 +10,7 @@
     "graphql": "0.11.7",
     "graphql-tools": "2.3.0",
     "mysql2": "1.4.2",
-    "sequelize": "4.13.10"
+    "sequelize": "6.3.5"
   },
   "devDependencies": {
     "@types/bcryptjs": "2.4.1",
